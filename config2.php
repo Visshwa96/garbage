@@ -1,5 +1,5 @@
 <?php
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'localhost:3000');
 define('DB_NAME', 'gabbbbbage');
 define('DB_USERNAME','root');
 define('DB_PASSWORD','');
